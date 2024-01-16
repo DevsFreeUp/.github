@@ -11,3 +11,6 @@
 ![11](https://github.com/DevsFreeUp/.github/assets/108367675/5822bea6-0439-45de-89e2-a83c175b5fc5)
 ![12](https://github.com/DevsFreeUp/.github/assets/108367675/54c10dce-581d-4b75-8e43-6b688d53ee96)
 ![13](https://github.com/DevsFreeUp/.github/assets/108367675/0e400936-f360-4fd2-8e2b-140eaf96c76f)
+
+**Informações Importantes:**
+- [Responsabilidades dos Times](https://drive.google.com/file/d/1Ek0MS5b7hcyxmP11AJ3nwosz3kHKB2g_/view?usp=sharing)
