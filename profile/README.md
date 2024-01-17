@@ -13,7 +13,7 @@
 ![13](https://github.com/DevsFreeUp/.github/assets/108367675/0e400936-f360-4fd2-8e2b-140eaf96c76f)
 
 **Informações Importantes:**
+- [Responsabilidades do Colaboradores](https://drive.google.com/file/d/1tkr7TnI6eiGoCHJehaiGcE9Vc6mLuKg9/view?usp=sharing)
 - [Responsabilidades dos Times](https://drive.google.com/file/d/1Ek0MS5b7hcyxmP11AJ3nwosz3kHKB2g_/view?usp=sharing)
 - [Boas Práticas](https://drive.google.com/file/d/1hV6t8TZ29RqOmmJICDP1w7CLrcj-DTFN/view?usp=sharing)
 - [Hub - DevsFreeGuide](https://drive.google.com/file/d/1EC_7YeILbyj_p1RvRHb3D0tP4fxGVpDs/view?usp=sharing)
-
